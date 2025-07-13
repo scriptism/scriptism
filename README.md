@@ -6,6 +6,7 @@
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
