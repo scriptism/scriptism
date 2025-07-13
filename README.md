@@ -9,9 +9,9 @@
 
 ###
 
-## 🍰 Language Distribution
+## My Language Distribution
 
-[![Language Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?scriptism=YOUR_USERNAME&langs_count=8&layout=pie&theme=merko)](https://github.com/scriptism)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptism&layout=pie&theme=radical&hide_border=true&radius=60)](https://github.com/scriptism)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
 
