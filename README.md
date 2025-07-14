@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aminullah Puya</h1>
-<hr/>
 <h3 align="center">I am fascinated about web development and I live in Germany</h3>
 <br/>
-<br/>
-<br/>
 <hr/>
-###
+
 
 <img align="right" height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
 
-###
-<br/>
-<hr/>
+
 ## My Language Distribution
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptism&layout=pie&theme=radical&hide_border=true&radius=60)](https://github.com/scriptism)
