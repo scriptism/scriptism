@@ -3,18 +3,20 @@
 <h3 align="center">I am fascinated about web development and I live in Germany</h3>
 <br/>
 <br/>
-
+<br/>
+<hr/>
 ###
 
-<img align="left" height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
 
 ###
-
+<br/>
+<hr/>
 ## My Language Distribution
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptism&layout=pie&theme=radical&hide_border=true&radius=60)](https://github.com/scriptism)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
 
 - 🌱 I’m currently learning **PostgreSQL and Redux**
 
