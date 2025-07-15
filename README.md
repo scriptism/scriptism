@@ -7,6 +7,12 @@
 <img align="right" height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
 
 
+
+<div style="margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px;">
+    <img align="right" height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" />
+</div>
+
+
 ## My Language Distribution
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptism&layout=pie&theme=radical&hide_border=true&radius=60)](https://github.com/scriptism)
