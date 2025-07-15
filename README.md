@@ -4,7 +4,6 @@
 <hr/>
 
 
-<img align="right" height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
 
 
 
@@ -13,6 +12,9 @@
 </div>
 
 
+Text before the image &nbsp;  
+<img align="right" height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" />  
+&nbsp;  
 ## My Language Distribution
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptism&layout=pie&theme=radical&hide_border=true&radius=60)](https://github.com/scriptism)
