@@ -8,7 +8,7 @@
 
 
 
-<div style="margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px;">
+<div style="margin-top: 200px; margin-right: 100px; margin-bottom: 10px; margin-left: 10px;">
     <img align="right" height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" />
 </div>
 
