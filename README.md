@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aminullah Puya</h1>
 <h3 align="center">I am fascinated about web development and I live in Germany</h3>
- &nbsp;  
-<img align="right" height="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" />  
-&nbsp;  
+<br/>
+<hr/>
 
+<div style="margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px;">
 <table align="right">
   <tr>
     <td style="padding: 100px;">
@@ -17,10 +17,10 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptism&layout=pie&theme=radical&hide_border=true&radius=60)](https://github.com/scriptism)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
+ 
+</div>
 
 - 🌱 I’m currently learning **PostgreSQL and Redux**
-
-<br/>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
