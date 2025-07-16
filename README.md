@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aminullah Puya</h1>
 <h3 align="center">I am fascinated about web development and I live in Germany</h3>
 <br/>
-<hr style="border: 0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
-
+| :---: | :---: | :---: || :---: | :---: | :---: || :---: | :---: | :---: || :---: | :---: | :---: || :---: | :---: | :---: |
 <div style="margin-top: 100px; margin-right: 100px; margin-bottom: 10px; margin-left: 10px;">
   <br/>
-<hr/>
 <table align="right">
   <tr>
     <td style="padding: 100px;">
