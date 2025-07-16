@@ -2,8 +2,7 @@
 <h3 align="center">I am fascinated about web development and I live in Germany</h3>
 <br/>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: | :---: |
-  <br/> 
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
       
       
 
@@ -11,13 +10,10 @@
 <table>
   <tr>
     <td align="center">
-            <img height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" 
-
-      <img src="URL_1" alt="Image 1" width="200"/>
+            <img height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="200" alt="Image 1" "/>
     </td>
     <td align="center">
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptism&layout=pie&theme=radical&hide_border=true&radius=60)](https://github.com/scriptism)
-      <img src="URL_2" alt="Image 2" width="200"/>
     </td>
   </tr>
 </table>
