@@ -8,7 +8,7 @@
             <img height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="400" alt="Image 1" "/>
     </td>
     <td align="center">
-      ![Languages](https://raw.githubusercontent.com/scriptism/YOUR_REPO/main/pie.svg)
+      ![Languages](https://raw.githubusercontent.com/scriptism/scriptism/main/pie.svg)
             </td>
   </tr>
 </table>
