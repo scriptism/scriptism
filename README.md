@@ -10,20 +10,22 @@
 <table>
   <tr>
     <td align="center">
-            <img height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="200" alt="Image 1" "/>
+            <img height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="400" alt="Image 1" "/>
     </td>
     <td align="center">
+          ## My Language Distribution
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptism&layout=pie&theme=radical&hide_border=true&radius=60)](https://github.com/scriptism)
+          <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
+
     </td>
   </tr>
 </table>
 
 
-## My Language Distribution
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
+
+
  
 
 - 🌱 I’m currently learning **PostgreSQL and Redux**
