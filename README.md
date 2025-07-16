@@ -2,33 +2,18 @@
 <h3 align="center">I am fascinated about web development and I live in Germany</h3>
 <br/>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: | :---: |
-
-      
-      
-
-
 <table>
   <tr>
     <td align="center">
             <img height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="400" alt="Image 1" "/>
     </td>
     <td align="center">
-          ## My Language Distribution
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptism&layout=pie&theme=radical&hide_border=true&radius=60)](https://github.com/scriptism)
-          <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
-
-    </td>
+         [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptism&layout=compact&theme=radical&hide_border=true)](https://github.com/scriptism)
+            </td>
   </tr>
 </table>
-
-
-
-
-
-
- 
-
 - 🌱 I’m currently learning **PostgreSQL and Redux**
+-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
