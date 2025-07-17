@@ -9,7 +9,9 @@
     </td>
   </tr>
 </table>
- ![Languages](https://raw.githubusercontent.com/scriptism/scriptism/main/pie.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
+
 - 🌱 I’m currently learning **PostgreSQL and Redux**
 -   <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
 <br/>
