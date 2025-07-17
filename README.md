@@ -7,11 +7,9 @@
     <td align="center">
             <img height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="400" alt="Image 1" "/>
     </td>
-    <td align="center">
-      ![Languages](https://raw.githubusercontent.com/scriptism/scriptism/main/pie.svg)
-            </td>
   </tr>
 </table>
+ ![Languages](https://raw.githubusercontent.com/scriptism/scriptism/main/pie.svg)
 - 🌱 I’m currently learning **PostgreSQL and Redux**
 -   <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
 <br/>
