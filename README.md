@@ -2,21 +2,10 @@
 <h3 align="center">I am fascinated about web development and I live in Germany</h3>
 <br/>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: | :---: |
-<table>
-  <tr>
-    <td align="center">
-            <img height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="400" alt="Image 1" "/>
-    </td>
-  </tr>
-</table>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scriptism&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptism&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-              <img height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="400" alt="Image 1" "/>
-
+ <img height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="400" alt="Image 1" "/>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
 
 - 🌱 I’m currently learning **PostgreSQL and Redux**
 -   <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
