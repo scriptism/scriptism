@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aminullah Puya</h1>
 <h3 align="center">I am fascinated about web development and I live in Germany</h3>
 <br/>
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: |:---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: |:---: | :---: |:---: |
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptism&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
