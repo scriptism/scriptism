@@ -22,14 +22,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptism&" alt="scriptism" /></p>
 
 
-## 🚀 My Projects  
 
-### [Project 1](https://github.com/scriptism/scriptism.tech_portfolio)  
-[![Live Demo](https://scriptism.github.io/scriptism.tech_portfolio/)](https://project1-demo-url.com)  
 
 
 ### [Project 2](https://github.com/your-username/project-2)  
 [![My Portfolio](https://img.shields.io/badge/-Portfolio%20Demo-blue)](https://scriptism.github.io/scriptism.tech_portfolio/)
+
+<a href="https://scriptism.github.io/scriptism.tech_portfolio/" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-green"></a> 
   
 
 
