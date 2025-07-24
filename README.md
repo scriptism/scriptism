@@ -29,8 +29,8 @@
 
 
 ### [Project 2](https://github.com/your-username/project-2)  
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-green)](https://project2-demo-url.com)  
-Description of the project.  
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-green)]https://scriptism.github.io/scriptism.tech_portfolio/  
+  
 
 
 <h3 align="left">Languages and Tools:</h3>
