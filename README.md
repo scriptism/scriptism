@@ -29,7 +29,7 @@
 
 
 ### [Project 2](https://github.com/your-username/project-2)  
-[![My Portfolio](https://img.shields.io/badge/-Live%20Demo-blue)](https://scriptism.github.io/scriptism.tech_portfolio/)
+[![My Portfolio](https://img.shields.io/badge/-Portfolio%20Demo-blue)](https://scriptism.github.io/scriptism.tech_portfolio/)
   
 
 
