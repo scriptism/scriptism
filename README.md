@@ -21,7 +21,7 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptism&" alt="scriptism" /></p>
 
-<a href="https://scriptism.github.io/scriptism.tech_portfolio/" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-Demo-green"></a> 
+<a href="https://scriptism.github.io/scriptism.tech_portfolio/" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-blue"></a> 
   
 
 
