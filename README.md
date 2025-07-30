@@ -12,7 +12,7 @@
 
 <div align="center">
 <h3>🌱 I’m currently learning **PostgreSQL and Redux**</h3>
-<p> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
+<!-- <p> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p> -->
   </div>
 
 <h3 align="left">Connect with me:</h3>
