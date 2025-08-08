@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptism&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
- <img height="200" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="400" alt="Image 1" "/>
+ <img height="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="450" alt="Image 1" "/>
 </div>
 <br/>
 <hr/>
