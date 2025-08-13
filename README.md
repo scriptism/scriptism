@@ -3,8 +3,9 @@
 <br/>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: |:---: | :---: |
 <br/>
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptism&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
+<div align="center">
+  <img src="https://via.placeholder.com/1x20/00000000?text=+" width="1" height="20" alt="spacer" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptism&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph" />
 </div>
 <br/>
 <div align="center">
