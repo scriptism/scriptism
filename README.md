@@ -14,7 +14,7 @@
 <br/>
 <div align="center">
  <img height="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="450" alt="Image 1" "/>
-  <p>Me randomly coding <></> </p>
+  <p>Me randomly coding 🤍 </p>
 </div>
 <br/>
 <hr/>
