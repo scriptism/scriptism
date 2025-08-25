@@ -16,6 +16,7 @@
  <img height="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="450" alt="Image 1" "/>
   <p>Me randomly coding 🤍 </p>
 
+![Me randomly coding](docs/typing.gif)
 <p align="center">
   <svg width="280" height="40" viewBox="0 0 280 40">
     <text x="0" y="24" font-size="20" fill="#e91e63" font-family="sans-serif">
