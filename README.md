@@ -14,24 +14,7 @@
 <br/>
 <div align="center">
  <img height="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="450" alt="Image 1" "/>
-  ![Me randomly coding](path/to/heart.gif)
   <p>Me randomly coding 🤍 </p>
-
-![Me randomly coding](docs/typing.gif)
-<p align="center">
-  <svg width="280" height="40" viewBox="0 0 280 40">
-    <text x="0" y="24" font-size="20" fill="#e91e63" font-family="sans-serif">
-      Me randomly coding
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
-    </text>
-    <text x="190" y="24" font-size="22" fill="#e91e63">
-      🤍
-      <animate attributeName="transform" type="scale"
-               values="1;1.15;1" dur="1.2s" repeatCount="indefinite"
-               additive="sum"/>
-    </text>
-  </svg>
-</p>
 <br/>
 <hr/>
 
