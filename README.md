@@ -78,6 +78,18 @@ typeWriter();
 <br/>
 <hr/>
 
+<p>
+  Me randomly coding
+  <span style="display:inline-block; animation:bounce 1.2s infinite;">🤍</span>
+</p>
+
+<style>
+@keyframes bounce {
+  0%,100% { transform:translateY(0); }
+  50%     { transform:translateY(-8px); }
+}
+</style>
+
 <div align="left">
   <h3>🌱 I have just completed learning MongoDB</h3>
 <h3>🌱 I’m currently learning ** PostgreSQL, GSAP and Python **</h3>
