@@ -16,79 +16,24 @@
  <img height="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="450" alt="Image 1" "/>
   <p>Me randomly coding 🤍 </p>
 
-  <p align="center" style="font-size:1.4em; color:#e91e63; animation:pulse 2s infinite;">
-  Me randomly coding <span style="display:inline-block; animation:heartbeat 1.2s infinite;">🤍</span>
+<p align="center">
+  <svg width="280" height="40" viewBox="0 0 280 40">
+    <text x="0" y="24" font-size="20" fill="#e91e63" font-family="sans-serif">
+      Me randomly coding
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+    </text>
+    <text x="190" y="24" font-size="22" fill="#e91e63">
+      🤍
+      <animate attributeName="transform" type="scale"
+               values="1;1.15;1" dur="1.2s" repeatCount="indefinite"
+               additive="sum"/>
+    </text>
+  </svg>
 </p>
-
-<style>
-@keyframes pulse {
-  0%   { opacity: 0.7; }
-  50%  { opacity: 1;   }
-  100% { opacity: 0.7; }
-}
-@keyframes heartbeat {
-  0%   { transform: scale(1);    }
-  25%  { transform: scale(1.15); }
-  45%  { transform: scale(1);    }
-}
-</style>
-
-</div>
-
-<p id="type" style="font-family: 'Courier New', monospace; color:#58a6ff;"></p>
-
-<script>
-const txt = "Me randomly coding 🤍";
-let i = 0;
-const speed = 90;
-function typeWriter() {
-  if (i < txt.length) {
-    document.getElementById("type").textContent += txt.charAt(i);
-    i++;
-    setTimeout(typeWriter, speed);
-  }
-}
-typeWriter();
-</script>
-
-<p style="color:#00ffff; font-size:1.5em; text-shadow:0 0 5px #00ffff, 0 0 10px #00ffff;
-          animation:slideIn 1s ease-out forwards;">
-  Me randomly coding 🤍
-</p>
-
-<style>
-@keyframes slideIn {
-  from { transform: translateX(-100%); opacity:0; }
-  to   { transform: translateX(0);    opacity:1; }
-}
-</style>
-
-
-
-<p class="fade-in">Me randomly coding 🤍</p>
-
-<style>
-.fade-in {
-  opacity:0;
-  animation:fade 1.2s ease-in forwards;
-  animation-delay:0.5s;
-}
-@keyframes fade { to { opacity:1; } }
-</style>
 <br/>
 <hr/>
 
-<p>
-  Me randomly coding
-  <span style="display:inline-block; animation:bounce 1.2s infinite;">🤍</span>
-</p>
 
-<style>
-@keyframes bounce {
-  0%,100% { transform:translateY(0); }
-  50%     { transform:translateY(-8px); }
-}
-</style>
 
 <div align="left">
   <h3>🌱 I have just completed learning MongoDB</h3>
