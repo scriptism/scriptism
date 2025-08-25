@@ -14,6 +14,7 @@
 <br/>
 <div align="center">
  <img height="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="450" alt="Image 1" "/>
+  ![Me randomly coding](path/to/heart.gif)
   <p>Me randomly coding 🤍 </p>
 
 ![Me randomly coding](docs/typing.gif)
