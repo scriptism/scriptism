@@ -33,6 +33,15 @@
 <a href="https://linkedin.com/in/scriptism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scriptism" height="30" width="40" /></a>
 </p>
 <hr>
+  <!-- Connect with me -->
+<div align="left">
+  <a href="YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
+  <a href="YOUR-FCC-URL"><img src="https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"></a><br>
+  <a href="YOUR-X-URL"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X"></a><br>
+  <a href="YOUR-FB-URL"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a><br>
+  <a href="YOUR-CODEPEN-URL"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white" alt="CodePen"></a><br>
+  <a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white" alt="Portfolio"></a>
+</div>
 </div>
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
