@@ -23,7 +23,7 @@
 <h3>🌱 I’m currently learning ** PostgreSQL, GSAP and Python **</h3>
 <!-- <p> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p> -->
   </div>
-<div align="left">
+<div align="center">
 <h3 align="left">Connect with me:</h3>
 <a href="https://scriptism.github.io/scriptism.tech_portfolio/" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-blue"></a> 
 <p align="left">
@@ -31,10 +31,10 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptism&" alt="scriptism" /></p>
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 </div>
 
- <p align="left">
+ <p align="center">
   <!-- Row 1 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
