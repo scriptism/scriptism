@@ -21,19 +21,22 @@
 <div align="center">
   <h3>🌱 I have just completed learning MongoDB</h3>
 <h3>🌱 I’m currently learning ** PostgreSQL, GSAP and Python **</h3>
-<!-- <p> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p> -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptism&" alt="scriptism" /></p>
+<p> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p>
   </div>
+  <br/>
+<hr/>
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <a href="https://scriptism.github.io/scriptism.tech_portfolio/" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-blue"></a> 
 <p align="center">
 <a href="https://linkedin.com/in/scriptism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scriptism" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptism&" alt="scriptism" /></p>
 <hr>
+</div>
+<div align="center">
 <h3 align="center">Languages and Tools:</h3>
 </div>
-
  <p align="center">
   <!-- Row 1 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
