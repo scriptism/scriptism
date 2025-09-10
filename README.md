@@ -29,6 +29,8 @@
 <!--   <a href="https://scriptism.github.io/scriptism.tech_portfolio/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white" alt="Portfolio"></a> -->
   <a href="https://scriptism.github.io/scriptism.tech_portfo?lio/" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-blue"></a> 
 </div>
+<br/>
+<hr/>
 
 <div align="center">
   <h3>🌱 I have just completed learning MongoDB</h3>
