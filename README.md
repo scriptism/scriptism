@@ -38,6 +38,9 @@
 <h3>🌱 I’m currently learning ** PostgreSQL, GSAP and Python **</h3>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptism&" alt="scriptism" /></p>
 
+<div align="center">
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: |:---: | :---: |
+</div>
   </div>
   <br/>
 <hr/>
