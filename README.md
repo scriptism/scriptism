@@ -34,7 +34,7 @@
 <hr/>
 
 <div align="center">
-  <h3>🌱 I have just completed learning MongoDB</h3>
+  <!-- <h3>🌱 I have just completed learning MongoDB</h3> -->
 <h3>🌱 I’m currently learning ** PostgreSQL, GSAP and Python **</h3>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptism&" alt="scriptism" /></p>
 
