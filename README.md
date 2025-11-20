@@ -35,7 +35,7 @@
 
 <div align="center">
   <h3>🌱 I have recently completed an online course on MongoDB</h3>
-<!-- <h3>🌱 I’m currently learning more on ** PostgreSQL and SQL**</h3> -->
+<h3>🌱 I’m currently learning more on ** PostgreSQL and SQL**</h3>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptism&" alt="scriptism" /></p>
 
   </div>
