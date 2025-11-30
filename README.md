@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aminullah Puya</h1>
-<h2 align="center">I L🤍VE Coding and Web Development: I live in Germany</h2>
+<h2 align="center">I L🤍VE Coding and Web Development.</h2>
 <br/>
 <div align="center">
   | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: |
