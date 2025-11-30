@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aminullah Puya 
-  
+<h1 align="center">Hi 👋👋👋! I'm Aminullah Puya 
   <br/>
-  
   I L🤍VE Coding and Web Development.</h1>
 <div align="center">
   | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: |
