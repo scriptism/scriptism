@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aminullah Puya \n I L🤍VE Coding and Web Development.</h1>
+<h1 align="center">Hi 👋, I'm Aminullah Puya 
+  
+  <br/>
+  
+  I L🤍VE Coding and Web Development.</h1>
 <h2 align="center"></h2>
 <br/>
 <div align="center">
