@@ -26,7 +26,7 @@
   <a href="https://x.com/scriptismus/"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X" style="margin-right:"></a> &nbsp; &nbsp; &nbsp;
 <!--   <a href="YOUR-FB-URL"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" style="margin-right: 6px;"></a> -->
   <a href="https://codepen.io/scriptism"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white" alt="CodePen" style="margin-right: "></a> &nbsp; &nbsp; &nbsp;
-  <a href="https://scriptism.github.io/scriptism.tech_portfolio/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <!-- <a href="https://scriptism.github.io/scriptism.tech_portfolio/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white" alt="Portfolio"></a> -->
   <!-- <a href="https://scriptism.github.io/scriptism.tech_portfo?lio/" target="_blank"> <img src="https://img.shields.io/badge/-My%20Portfolio-blue"></a>  -->
 <!--   <p> <img src="https://komarev.com/ghpvc/?username=scriptism&label=Profile%20views&color=0e75b6&style=flat" alt="scriptism" /> </p> -->
 </div>
