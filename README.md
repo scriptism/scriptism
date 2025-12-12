@@ -1,4 +1,4 @@
-<h1 align="center">👋👋👋Hi, I'm Amin Puya.
+<h1 align="center">👋👋👋Hi, I'm Aminullah Puya.
   <br/>
   I l🤍ve Coding and Software Development</h1>
 <div align="center">
