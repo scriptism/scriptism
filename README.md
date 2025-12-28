@@ -15,7 +15,6 @@
   <p>Me randomly and quietly coding</p>
 <br/>
 <hr/>
-
 <!-- Connect with me -->
 <div align="center">
   <h3>Connect with me:</h3>
