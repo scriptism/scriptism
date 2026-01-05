@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Aminullah Puya.
   <br/>
-  I L🤍VE Coding and Software Development 
+  I L🤍VE Coding and Software Development <br/>
   --- and I live in Germany</h1>
 <div align="center">
   | :--: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--: | :--: |
