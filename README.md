@@ -11,6 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptism&locale=en&hide_title=false&layout=compact&card_width=650&langs_count=5&theme=dracula&hide_border=false" height="350" alt="languages graph" />
 </div>
 <br/>
+
 <div align="center">
  <img height="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="450" alt="Image 1" "/>
   <p>Me randomly and quietly coding</p>
