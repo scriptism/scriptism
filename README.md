@@ -17,7 +17,7 @@
 <hr/>
 <!-- Connect with me -->
 <div align="center">
-  <h3>Connect with me:</h3>
+  <h2>Connect with me:</h2>
   <a href="https://www.linkedin.com/in/scriptism/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right:"></a> &nbsp; &nbsp; &nbsp;
   <a href="https://www.freecodecamp.org/scriptism"><img src="https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white" alt="freeCodeCamp" style="margin-right: 6px;"></a> &nbsp; &nbsp; &nbsp;
   <a href="https://x.com/scriptismus/"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X" style="margin-right:"></a> &nbsp; &nbsp; &nbsp;
