@@ -1,6 +1,6 @@
 <h1 align="center">🙋‍♀️, I'm Aminullah Puya.
   <br/>
-  I L🤍VE Coding and and learning about Data Science <br/>
+  I L🤍VE Coding and Data Science <br/>
   🌍 I live in Germany</h1>
 <div align="center">
   | :--: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--: | :--: |
