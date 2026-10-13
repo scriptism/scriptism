@@ -1,4 +1,4 @@
-<h1 align="center">🙋‍♀️ I'm Aminullah Puya.
+<h1 align="center">🙋‍♀️ I'm Amin Puya.
   <br/>
   I L🤍VE Coding and Data Science <br/>
   🌍 From Germany</h1>
