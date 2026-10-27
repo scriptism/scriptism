@@ -2,9 +2,9 @@
   <br/>
   I L🤍VE Coding and Data Science <br/>
   🌍 and I live in Germany</h1>
-<!-- <div align="center">
+<div align="center">
   | :--: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--: | :--: |
-</div> -->
+</div> 
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptism&locale=en&hide_title=false&layout=compact&card_width=650&langs_count=5&theme=dracula&hide_border=false" height="350" alt="languages graph" />
