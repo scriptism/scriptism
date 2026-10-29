@@ -14,7 +14,7 @@
  <img height="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif width="450" alt="Image 1" "/>
   <p>Me randomly and quietly coding</p>
 <br/>
-<hr/>
+<!--<hr/>
   <!-
   <hr/> 
 <!-- Connect with me -->
