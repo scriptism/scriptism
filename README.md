@@ -1,7 +1,7 @@
 <h1 align="center">🙋‍♀️ I'm Amin Puya.
   <br/>
   I L❤️VE Coding and Data Science <br/>
- and I live in Germany</h1>
+ - I live in Germany</h1>
 <div align="center">
   | :--: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--: | :--: |
 </div> 
