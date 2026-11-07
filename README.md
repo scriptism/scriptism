@@ -17,7 +17,6 @@
 <br/>
 <!
   <hr/>
-  <!-
   <hr/> 
 <!-- Connect with me -->
 <div align="center">
